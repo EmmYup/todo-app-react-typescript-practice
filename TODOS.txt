@@ -1,0 +1,26 @@
+- Add logic to add a new TODO
+
+Create TODO functionality
+Agragar nuevo todo a la lista con status pending por default
+
+Ordenar por status en la vista principal:
+
+Top: pinned
+Middle: pending
+Bottom: done
+
+Agregar la funcionalidad del botón de Terminar
+Agregar la funcionalidad del botón de Favorito
+Agregar la funcionalidad del botón de Eliminar
+
+--------
+- Create Loader component
+- Show a message if the todos array is empty
+- Create an Input component 
+- Integrate add todo with API
+- Design todo states logic (new, pinned, done) || 90%
+- Create necessary components for the todo statuses || 80%
+- Update status
+- Create User model (DB)
+- Link todos with users
+- Return todos with user
